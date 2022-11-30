@@ -32,8 +32,8 @@ $tmpsumm = 0;
 for ($i=3; $i <= 5; $i++)     //цикл с 4го по 6й эл-т
 {
     $tmpsumm = $tmpsumm + $arr [$i];
-    var_dump($tmpsumm);
 };
+var_dump($tmpsumm);
 
 
 /*
